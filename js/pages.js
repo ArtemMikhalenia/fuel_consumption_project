@@ -2,7 +2,7 @@ import { MainTitle, AddBlock, ListBlock, RichyBlock } from "./components.js";
 
 const Page = {
 	id: "page",
-	title: "Помощь бездомным животным Солигорска",
+	title: "Расчет топлива для лентяев",
 	render: () => {
 		return `
     <main class="main-container">
