@@ -11,7 +11,7 @@ const RichyBlock = {
 		return `
     <section class="richy-block animate__animated animate__zoomIn">
     <h2>А может в уме посчитаешь?</h2>
-        <img src="../images/photo_2023-11-03_15-58-19.jpg" alt="richy">
+        <img src="./images/photo_2023-11-03_15-58-19.jpg" alt="richy">
     </section>`;
 	},
 };
